@@ -2,12 +2,12 @@
   type: 'Button',
   description: 'Un buton simplu care trimite starea sa (apăsat/neapăsat)',
   flows: [
-    {
-      id: 1,
-      name: 'Channel',
-      type: 'Output',
-      dataType: 'Boolean',
-      description: 'Button press state'
-    }
+      {
+          id: 1,
+          name: 'Channel',
+          type: 'Output',
+          dataType: 'Boolean',
+          description: 'Button press state'
+      }
   ]
 }
