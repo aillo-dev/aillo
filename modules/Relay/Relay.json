@@ -1,0 +1,13 @@
+{
+    "type": "Relay",
+    "description": "Un releu pentru controlul dispozitivelor de mare putere",
+    "flows": [
+        {
+            "id": 1,
+            "name": "State",
+            "type": "Input",
+            "dataType": "Boolean",
+            "description": "Relay on/off state"
+        }
+    ]
+}
