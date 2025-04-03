@@ -1,13 +1,13 @@
 {
-    type: 'Potentiometer',
-    description: 'Un potențiometru pentru controlul valorilor analogice',
-    flows: [
-      {
-        id: 1,
-        name: 'Value',
-        type: 'Output',
-        dataType: 'Integer',
-        description: 'Current potentiometer value (0-1023)'
-      }
+    "type": "Potentiometer",
+    "description": "Un potențiometru pentru controlul valorilor analogice",
+    "flows": [
+        {
+            "id": 1,
+            "name": "Value",
+            "type": "Output",
+            "dataType": "Integer",
+            "description": "Current potentiometer value (0-1023)"
+        }
     ]
-  },
+}
