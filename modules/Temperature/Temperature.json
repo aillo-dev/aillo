@@ -1,13 +1,13 @@
 {
-    type: 'Temperature',
-    description: 'Senzor pentru măsurarea temperaturii ambientale',
-    flows: [
-      {
-        id: 1,
-        name: 'Temperature',
-        type: 'Output',
-        dataType: 'Float',
-        description: 'Current temperature in Celsius'
-      }
+    "type": "Temperature",
+    "description": "Senzor pentru măsurarea temperaturii ambientale",
+    "flows": [
+        {
+            "id": 1,
+            "name": "Temperature",
+            "type": "Output",
+            "dataType": "Float",
+            "description": "Current temperature in Celsius"
+        }
     ]
-  },
+}
