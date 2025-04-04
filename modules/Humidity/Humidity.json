@@ -1,7 +1,7 @@
 {
     "type": "Humidity",
-    "length": 1,
-    "width": 1,
+    "size_x": 1,
+    "size_y": 1,
     "description": "Senzor pentru măsurarea umidității din aer",
     "flows": [
         {
