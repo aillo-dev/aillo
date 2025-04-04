@@ -1,5 +1,7 @@
 {
     "type": "Relay",
+    "x": 1,
+    "y": 1,
     "description": "Un releu pentru controlul dispozitivelor de mare putere",
     "flows": [
         {

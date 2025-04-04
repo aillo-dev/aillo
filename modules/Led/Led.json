@@ -1,5 +1,7 @@
 {
     "type": "Led",
+    "x": 1,
+    "y": 1,
     "description": "Un LED controlabil cu stare și luminozitate ajustabilă",
     "flows": [
         {

@@ -1,5 +1,7 @@
 {
     "type": "Potentiometer",
+    "x": 1,
+    "y": 1,
     "description": "Un potențiometru pentru controlul valorilor analogice",
     "flows": [
         {

@@ -1,5 +1,7 @@
 {
     "type": "Temperature",
+    "x": 1,
+    "y": 1,
     "description": "Senzor pentru măsurarea temperaturii ambientale",
     "flows": [
         {
