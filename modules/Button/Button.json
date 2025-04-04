@@ -1,5 +1,5 @@
 {
-    "type": "Button",
+    "name": "Button",
     "size_x": 1,
     "size_y": 1,
     "description": "Un buton simplu care trimite starea sa (apăsat/neapăsat)",

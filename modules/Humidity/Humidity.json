@@ -1,5 +1,5 @@
 {
-    "type": "Humidity",
+    "name": "Humidity",
     "size_x": 1,
     "size_y": 1,
     "description": "Senzor pentru măsurarea umidității din aer",

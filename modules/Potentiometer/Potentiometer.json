@@ -1,5 +1,5 @@
 {
-    "type": "Potentiometer",
+    "name": "Potentiometer",
     "size_x": 1,
     "size_y": 1,
     "description": "Un potențiometru pentru controlul valorilor analogice",

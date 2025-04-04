@@ -1,5 +1,5 @@
 {
-    "type": "Temperature",
+    "name": "Temperature",
     "size_x": 1,
     "size_y": 1,
     "description": "Senzor pentru măsurarea temperaturii ambientale",

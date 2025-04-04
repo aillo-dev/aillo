@@ -1,5 +1,5 @@
 {
-    "type": "Led",
+    "name": "Led",
     "size_x": 1,
     "size_y": 1,
     "description": "Un LED controlabil cu stare și luminozitate ajustabilă",
