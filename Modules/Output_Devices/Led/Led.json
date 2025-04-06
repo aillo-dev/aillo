@@ -1,0 +1,22 @@
+{
+    "name": "Led",
+    "size_x": 1,
+    "size_y": 1,
+    "description": "Un LED controlabil cu stare și luminozitate ajustabilă",
+    "flows": [
+        {
+            "id": 1,
+            "name": "State",
+            "type": "Input",
+            "dataType": "Boolean",
+            "description": "LED on/off state"
+        },
+        {
+            "id": 2,
+            "name": "Brightness",
+            "type": "Input",
+            "dataType": "Integer",
+            "description": "LED brightness (0-255)"
+        }
+    ]
+}
