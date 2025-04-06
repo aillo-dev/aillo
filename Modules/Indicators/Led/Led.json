@@ -1,8 +1,9 @@
 {
     "id": 4,
     "name": "Led",
-    "size_x": 1,
-    "size_y": 1,
+    "sizeX": 1,
+    "sizeY": 1,
+    "power": 0.1,
     "description": "Un LED controlabil cu stare și luminozitate ajustabilă",
     "flows": [
         {
