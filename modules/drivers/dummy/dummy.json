@@ -4,7 +4,7 @@
     "sizeX": 1,
     "sizeY": 1,
     "power": 0.1,
-    "description": "Un releu pentru controlul dispozitivelor de mare putere",
+    "description": "Dummy module",
     "flows": [
         {
             "id": 1,
