@@ -1,0 +1,50 @@
+{
+    "id": 1,
+    "name": "Relay",
+    "sizeX": 1,
+    "sizeY": 1,
+    "power": 0.1,
+    "description": "Un releu pentru controlul dispozitivelor de mare putere",
+    "flows": [
+        {
+            "id": 1,
+            "position" : 1,
+            "name": "Flow1",
+            "type": "Input",
+            "dataType": "Boolean",
+            "description": "Relay on/off state"
+        },
+        {
+            "id": 2,
+            "position" : 3,
+            "name": "Flow2",
+            "type": "Input",
+            "dataType": "Boolean",
+            "description": "Relay on/off state"
+        },
+        {
+            "id": 3,
+            "position" : 5,
+            "name": "Flow3",
+            "type": "Input",
+            "dataType": "Boolean",
+            "description": "Relay on/off state"
+        },
+        {
+            "id": 4,
+            "position" : 2,
+            "name": "Flow4",
+            "type": "Output",
+            "dataType": "Boolean",
+            "description": "Relay on/off state"
+        },
+        {
+            "id": 5,
+            "position" : 4,
+            "name": "Flow5",
+            "type": "Output",
+            "dataType": "Boolean",
+            "description": "Relay on/off state"
+        }
+    ]
+}
