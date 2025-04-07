@@ -8,6 +8,7 @@
     "flows": [
         {
             "id": 1,
+            "position" : 1,
             "name": "State",
             "type": "Input",
             "dataType": "Boolean",
@@ -15,6 +16,7 @@
         },
         {
             "id": 2,
+            "position" : 3,
             "name": "Brightness",
             "type": "Input",
             "dataType": "Integer",

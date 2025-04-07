@@ -8,6 +8,7 @@
     "flows": [
         {
             "id": 1,
+            "position" : 2,
             "name": "Value",
             "type": "Output",
             "dataType": "Integer",
