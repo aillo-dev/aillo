@@ -31,6 +31,14 @@
             "description": "Relay on/off state"
         },
         {
+            "id": 6,
+            "position" : 4,
+            "name": "Flow6",
+            "type": "Input",
+            "dataType": "String",
+            "description": "Relay on/off state"
+        },
+        {
             "id": 4,
             "position" : 1,
             "name": "Flow4",
