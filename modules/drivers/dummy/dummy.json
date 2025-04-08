@@ -39,6 +39,62 @@
             "description": "Relay on/off state"
         },
         {
+            "id": 7,
+            "position" : 5,
+            "name": "Flow6",
+            "type": "Input",
+            "dataType": "String",
+            "description": "Relay on/off state"
+        },
+        {
+            "id": 8,
+            "position" : 6,
+            "name": "Flow6",
+            "type": "Input",
+            "dataType": "String",
+            "description": "Relay on/off state"
+        },
+        {
+            "id": 9,
+            "position" : 7,
+            "name": "Flow6",
+            "type": "Input",
+            "dataType": "String",
+            "description": "Relay on/off state"
+        },
+        {
+            "id": 10,
+            "position" : 8,
+            "name": "Flow6",
+            "type": "Input",
+            "dataType": "String",
+            "description": "Relay on/off state"
+        },
+        {
+            "id": 11,
+            "position" : 9,
+            "name": "Flow6",
+            "type": "Input",
+            "dataType": "String",
+            "description": "Relay on/off state"
+        },
+        {
+            "id": 12,
+            "position" : 10,
+            "name": "Flow6",
+            "type": "Input",
+            "dataType": "String",
+            "description": "Relay on/off state"
+        },
+        {
+            "id": 13,
+            "position" : 11,
+            "name": "Flow6",
+            "type": "Input",
+            "dataType": "String",
+            "description": "Relay on/off state"
+        },
+        {
             "id": 4,
             "position" : 1,
             "name": "Flow4",
