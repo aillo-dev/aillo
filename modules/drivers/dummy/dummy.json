@@ -32,7 +32,7 @@
         },
         {
             "id": 5,
-            "position" : 3,
+            "position" : 1,
             "name": "Flow5",
             "type": "Output",
             "dataType": "Boolean",
@@ -40,7 +40,7 @@
         },
 	{
             "id": 4,
-            "position" : 1,
+            "position" : 3,
             "name": "Flow4",
             "type": "Output",
             "dataType": "Integer",
