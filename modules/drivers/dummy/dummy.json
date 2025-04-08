@@ -16,7 +16,7 @@
         },
         {
             "id": 2,
-            "position" : 3,
+            "position" : 2,
             "name": "Flow2",
             "type": "Input",
             "dataType": "Integer",
@@ -24,7 +24,7 @@
         },
         {
             "id": 3,
-            "position" : 5,
+            "position" : 3,
             "name": "Flow3",
             "type": "Input",
             "dataType": "String",
@@ -32,7 +32,7 @@
         },
         {
             "id": 4,
-            "position" : 2,
+            "position" : 1,
             "name": "Flow4",
             "type": "Output",
             "dataType": "Integer",
@@ -40,7 +40,7 @@
         },
         {
             "id": 5,
-            "position" : 4,
+            "position" : 3,
             "name": "Flow5",
             "type": "Output",
             "dataType": "Boolean",
