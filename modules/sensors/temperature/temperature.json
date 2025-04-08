@@ -8,7 +8,7 @@
     "flows": [
         {
             "id": 1,
-            "position" : 2,
+            "position" : 1,
             "name": "Temperature",
             "type": "Output",
             "dataType": "Float",

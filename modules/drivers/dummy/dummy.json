@@ -31,19 +31,19 @@
             "description": "Relay on/off state"
         },
         {
-            "id": 4,
-            "position" : 1,
-            "name": "Flow4",
-            "type": "Output",
-            "dataType": "Integer",
-            "description": "Relay on/off state"
-        },
-        {
             "id": 5,
             "position" : 3,
             "name": "Flow5",
             "type": "Output",
             "dataType": "Boolean",
+            "description": "Relay on/off state"
+        },
+	{
+            "id": 4,
+            "position" : 1,
+            "name": "Flow4",
+            "type": "Output",
+            "dataType": "Integer",
             "description": "Relay on/off state"
         }
     ]
