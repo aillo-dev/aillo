@@ -1,0 +1,66 @@
+{
+    "id": 2,
+    "name": "Button_Dummy",
+    "sizeX": 1,
+    "sizeY": 1,
+    "power": 0.1,
+    "description": "Un buton simplu care trimite starea sa (apăsat/neapăsat)",
+    "flows": [
+        {
+            "id": 1,
+            "position" : 1,
+            "name": "Channel",
+            "type": "Output",
+            "dataType": "Boolean",
+            "description": "Button press state"
+        },
+        {
+            "id": 2,
+            "position" : 3,
+            "name": "Channel",
+            "type": "Output",
+            "dataType": "Boolean",
+            "description": "Button press state"
+        },
+        {
+            "id": 3,
+            "position" : 5,
+            "name": "Channel",
+            "type": "Output",
+            "dataType": "Boolean",
+            "description": "Button press state"
+        },
+        {
+            "id": 4,
+            "position" : 7,
+            "name": "Channel",
+            "type": "Output",
+            "dataType": "Boolean",
+            "description": "Button press state"
+        },
+        {
+            "id": 5,
+            "position" : 9,
+            "name": "Channel",
+            "type": "Output",
+            "dataType": "Boolean",
+            "description": "Button press state"
+        },
+        {
+            "id": 6,
+            "position" : 11,
+            "name": "Channel",
+            "type": "Output",
+            "dataType": "Boolean",
+            "description": "Button press state"
+        },
+        {
+            "id": 7,
+            "position" : 11,
+            "name": "Channel",
+            "type": "Input",
+            "dataType": "Boolean",
+            "description": "Button press state"
+        }
+    ]
+}
