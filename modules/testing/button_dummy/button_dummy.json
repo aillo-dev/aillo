@@ -63,7 +63,7 @@
             "description": "Button press state"
         },
         {
-            "id": 8,
+            "id": 9,
             "position" : 13,
             "name": "Channel",
             "type": "Output",
