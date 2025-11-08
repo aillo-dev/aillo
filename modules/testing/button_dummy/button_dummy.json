@@ -66,7 +66,7 @@
             "id": 8,
             "position" : 13,
             "name": "Channel",
-            "type": "Input",
+            "type": "Output",
             "dataType": "Boolean",
             "description": "Button press state"
         }
