@@ -8,19 +8,11 @@
     "flows": [
         {
             "id": 1,
-            "position" : 1,
-            "name": "State",
-            "type": "Input",
-            "dataType": "Boolean",
-            "description": "LED on/off state"
-        },
-        {
-            "id": 2,
-            "position" : 3,
+            "position" : 2,
             "name": "Brightness",
             "type": "Input",
             "dataType": "Integer",
-            "description": "LED brightness (0-255)"
+            "description": "LED brightness (0-100)"
         }
     ]
 }
