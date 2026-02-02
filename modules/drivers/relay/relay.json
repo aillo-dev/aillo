@@ -1,10 +1,10 @@
 {
     "id": "aillo-0001-0001-01",
+    "description": "Un releu pentru controlul dispozitivelor de mare putere",
     "name": "Relay",
     "sizeX": 1,
     "sizeY": 1,
     "power": 0.1,
-    "description": "Un releu pentru controlul dispozitivelor de mare putere",
     "flows": [
         {
             "id": 1,

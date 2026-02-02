@@ -1,10 +1,10 @@
 {
     "id": "aillo-0002-0001-01",
+    "description": "Un buton simplu care trimite starea sa (apăsat/neapăsat)",
     "name": "Button",
     "sizeX": 1,
     "sizeY": 1,
     "power": 0.1,
-    "description": "Un buton simplu care trimite starea sa (apăsat/neapăsat)",
     "flows": [
         {
             "id": 1,
