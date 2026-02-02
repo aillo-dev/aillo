@@ -1,7 +1,7 @@
 {
     "id": "aillo-0004-0001-01",
-    "description": "Senzor pentru măsurarea umidității din aer",
     "name": "Humidity",
+    "description": "Senzor pentru măsurarea umidității din aer",
     "sizeX": 1,
     "sizeY": 1,
     "power": 0.1,
