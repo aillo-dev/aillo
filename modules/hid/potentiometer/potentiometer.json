@@ -1,7 +1,7 @@
 {
     "id": "aillo-0002-0002-01",
-    "description": "Un potențiometru pentru controlul valorilor analogice",
     "name": "Potentiometer",
+    "description": "Un potențiometru pentru controlul valorilor analogice",
     "sizeX": 1,
     "sizeY": 1,
     "power": 0.1,

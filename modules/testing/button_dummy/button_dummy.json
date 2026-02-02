@@ -1,7 +1,7 @@
 {
     "id": "aillo-0005-0001-01",
-    "description": "Un buton simplu care trimite starea sa (apăsat/neapăsat)",
     "name": "Button_Dummy",
+    "description": "Un buton simplu care trimite starea sa (apăsat/neapăsat)",
     "sizeX": 1,
     "sizeY": 1,
     "power": 0.1,

@@ -1,7 +1,7 @@
 {
     "id": "aillo-0004-0002-01",
-    "description": "Senzor pentru măsurarea temperaturii ambientale",
     "name": "Temperature",
+    "description": "Senzor pentru măsurarea temperaturii ambientale",
     "sizeX": 1,
     "sizeY": 1,
     "power": 0.1,
