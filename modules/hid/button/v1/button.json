@@ -1,0 +1,18 @@
+{
+    "id": "aillo-0002-0001-01",
+    "name": "Button",
+    "description": "Un buton simplu care trimite starea sa (apăsat/neapăsat)",
+    "sizeX": 1,
+    "sizeY": 1,
+    "power": 0.1,
+    "flows": [
+        {
+            "id": 1,
+            "position" : 2,
+            "name": "Channel",
+            "type": "Output",
+            "dataType": "Boolean",
+            "description": "Button press state"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "aillo-0003-0001-01",
+    "name": "Led",
+    "description": "Un LED controlabil cu stare și luminozitate ajustabilă",
+    "sizeX": 1,
+    "sizeY": 1,
+    "power": 0.1,
+    "flows": [
+        {
+            "id": 1,
+            "position" : 2,
+            "name": "Brightness",
+            "type": "Input",
+            "dataType": "Integer",
+            "description": "LED brightness (0-100)"
+        }
+    ]
+}

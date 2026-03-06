@@ -1,0 +1,18 @@
+{
+    "id": "aillo-0001-0001-01",
+    "name": "Relay",
+    "description": "Un releu pentru controlul dispozitivelor de mare putere",
+    "sizeX": 1,
+    "sizeY": 1,
+    "power": 0.1,
+    "flows": [
+        {
+            "id": 1,
+            "position" : 2,
+            "name": "State",
+            "type": "Input",
+            "dataType": "Boolean",
+            "description": "Relay on/off state"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": "aillo-0004-0002-02",
+    "name": "Temperature",
+    "description": "Advanced temperature sensor with configurable precision",
+    "sizeX": 1,
+    "sizeY": 1,
+    "power": 0.15,
+    "flows": [
+        {
+            "id": 1,
+            "position": 2,
+            "name": "Temperature",
+            "type": "Output",
+            "dataType": "Float",
+            "description": "Current temperature in Celsius"
+        },
+        {
+            "id": 2,
+            "position": 4,
+            "name": "Humidity",
+            "type": "Output",
+            "dataType": "Float",
+            "description": "Relative humidity percentage"
+        }
+    ]
+}
