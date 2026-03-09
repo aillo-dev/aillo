@@ -1,5 +1,6 @@
 {
     "id": "aillo-0004-0002-01",
+    "version": "v1",
     "name": "Temperature",
     "description": "Senzor pentru măsurarea temperaturii ambientale",
     "sizeX": 1,
@@ -8,7 +9,7 @@
     "flows": [
         {
             "id": 1,
-            "position" : 2,
+            "position": 2,
             "name": "Temperature",
             "type": "Output",
             "dataType": "Float",

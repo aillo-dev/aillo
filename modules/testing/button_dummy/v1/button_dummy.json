@@ -1,5 +1,6 @@
 {
     "id": "aillo-0005-0001-01",
+    "version": "v1",
     "name": "Button_Dummy",
     "description": "Un buton simplu care trimite starea sa (apăsat/neapăsat)",
     "sizeX": 1,
@@ -8,7 +9,7 @@
     "flows": [
         {
             "id": 1,
-            "position" : 1,
+            "position": 1,
             "name": "Channel",
             "type": "Output",
             "dataType": "Boolean",
@@ -16,7 +17,7 @@
         },
         {
             "id": 2,
-            "position" : 3,
+            "position": 3,
             "name": "Channel",
             "type": "Output",
             "dataType": "Boolean",
@@ -24,7 +25,7 @@
         },
         {
             "id": 3,
-            "position" : 5,
+            "position": 5,
             "name": "Channel",
             "type": "Output",
             "dataType": "Boolean",
@@ -32,7 +33,7 @@
         },
         {
             "id": 4,
-            "position" : 7,
+            "position": 7,
             "name": "Channel",
             "type": "Output",
             "dataType": "Boolean",
@@ -40,7 +41,7 @@
         },
         {
             "id": 5,
-            "position" : 9,
+            "position": 9,
             "name": "Channel",
             "type": "Output",
             "dataType": "Boolean",
@@ -48,7 +49,7 @@
         },
         {
             "id": 6,
-            "position" : 11,
+            "position": 11,
             "name": "Channel",
             "type": "Output",
             "dataType": "Boolean",
@@ -56,7 +57,7 @@
         },
         {
             "id": 7,
-            "position" : 11,
+            "position": 11,
             "name": "Channel",
             "type": "Input",
             "dataType": "Boolean",
@@ -64,7 +65,7 @@
         },
         {
             "id": 9,
-            "position" : 13,
+            "position": 13,
             "name": "Channel",
             "type": "Output",
             "dataType": "Boolean",

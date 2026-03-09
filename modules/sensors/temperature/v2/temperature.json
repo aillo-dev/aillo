@@ -1,5 +1,6 @@
 {
     "id": "aillo-0004-0002-02",
+    "version": "v2",
     "name": "Temperature",
     "description": "Advanced temperature sensor with configurable precision",
     "sizeX": 1,
