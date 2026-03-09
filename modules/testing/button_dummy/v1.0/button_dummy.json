@@ -1,6 +1,6 @@
 {
     "id": "aillo-0005-0001-01",
-    "version": "v1",
+    "version": "v1.0",
     "name": "Button_Dummy",
     "description": "Un buton simplu care trimite starea sa (apăsat/neapăsat)",
     "sizeX": 1,

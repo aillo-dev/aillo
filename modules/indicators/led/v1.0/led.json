@@ -1,6 +1,6 @@
 {
     "id": "aillo-0003-0001-01",
-    "version": "v1",
+    "version": "v1.0",
     "name": "Led",
     "description": "Un LED controlabil cu stare și luminozitate ajustabilă",
     "sizeX": 1,
