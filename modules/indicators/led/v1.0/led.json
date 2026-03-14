@@ -13,7 +13,8 @@
             "name": "Brightness",
             "type": "Input",
             "dataType": "Integer",
-            "description": "LED brightness (0-100)"
+            "description": "LED brightness (0-100)",
+            "range": { "min": 0, "max": 100 }
         }
     ]
 }

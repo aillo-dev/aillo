@@ -13,7 +13,8 @@
             "name": "Humidity",
             "type": "Output",
             "dataType": "Float",
-            "description": "Current humidity percentage"
+            "description": "Current humidity percentage",
+            "range": { "min": 0, "max": 100 }
         }
     ]
 }

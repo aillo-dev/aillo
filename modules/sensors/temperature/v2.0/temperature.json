@@ -13,7 +13,8 @@
             "name": "Temperature",
             "type": "Output",
             "dataType": "Float",
-            "description": "Current temperature in Celsius"
+            "description": "Current temperature in Celsius",
+            "range": { "min": -40, "max": 125 }
         },
         {
             "id": 2,
@@ -21,7 +22,8 @@
             "name": "Humidity",
             "type": "Output",
             "dataType": "Float",
-            "description": "Relative humidity percentage"
+            "description": "Relative humidity percentage",
+            "range": { "min": 0, "max": 100 }
         }
     ]
 }

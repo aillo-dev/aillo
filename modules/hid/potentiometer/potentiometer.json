@@ -1,5 +1,6 @@
 {
     "id": "aillo-0002-0002-01",
+    "version": "v1.0",
     "name": "Potentiometer",
     "description": "Un potențiometru pentru controlul valorilor analogice",
     "sizeX": 1,
@@ -8,11 +9,12 @@
     "flows": [
         {
             "id": 1,
-            "position" : 2,
+            "position": 2,
             "name": "Value",
             "type": "Output",
             "dataType": "Integer",
-            "description": "Current potentiometer value (0-1023)"
+            "description": "Current potentiometer value (0-1023)",
+            "range": { "min": 0, "max": 1023 }
         }
     ]
 }

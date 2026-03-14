@@ -13,7 +13,8 @@
             "name": "Temperature",
             "type": "Output",
             "dataType": "Float",
-            "description": "Current temperature in Celsius"
+            "description": "Current temperature in Celsius",
+            "range": { "min": -40, "max": 125 }
         }
     ]
 }

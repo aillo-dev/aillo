@@ -1,5 +1,6 @@
 {
     "id": "aillo-0004-0001-01",
+    "version": "v1.0",
     "name": "Humidity",
     "description": "Senzor pentru măsurarea umidității din aer",
     "sizeX": 1,
@@ -8,11 +9,12 @@
     "flows": [
         {
             "id": 1,
-            "position" : 2,
+            "position": 2,
             "name": "Humidity",
             "type": "Output",
             "dataType": "Float",
-            "description": "Current humidity percentage"
+            "description": "Current humidity percentage",
+            "range": { "min": 0, "max": 100 }
         }
     ]
 }
